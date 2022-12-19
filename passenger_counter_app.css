@@ -1,0 +1,78 @@
+body
+        {
+            background-image: url(img/home_bg.jpg);
+            background-position: cover;
+        }
+
+        section 
+        {
+            font-family: 'poppins', cursive;
+            text-align: center;
+            background-color: white;
+            width: 20rem;
+            height: 20rem;
+            margin: auto;
+            margin-top: 15px;
+        }
+        h1
+        {
+            margin: auto;
+            font-size: 30px;
+        }
+        #count
+        {
+            margin: auto;
+            margin-top: 10px;
+            font-size: 50px;
+        }
+        p
+        {
+            margin: auto;
+            margin-top: 10px;
+            font-size: 20px;
+        }
+        #increment 
+        {
+            cursor: pointer;
+            display: block;
+            background-color: darkgray;
+            border: 1px solid black;
+            padding: .5rem 1rem;
+            width: 15rem;
+            margin: auto;
+            border-radius: 5px;
+            margin-top: 10px;
+            font-size: 1.5rem;
+            color: white;
+            font-weight: bolder;
+        }
+        #decrement 
+        {
+            cursor: pointer;
+            display: block;
+            background-color: darkgray;
+            border: 1px solid black;
+            padding: .5rem 1rem;
+            width: 15rem;
+            margin: auto;
+            border-radius: 5px;
+            margin-top: 10px;
+            font-size: 1.5rem;
+            color: white;
+            font-weight: bolder;
+        }
+        #save 
+        {
+            cursor: pointer;
+            display: block;
+            background-color: darkgray;
+            border: 1px solid black;
+            padding: .5rem 1rem;
+            width: 15rem;
+            margin: auto;
+            margin-top: 10px;
+            border-radius: 5px;
+            font-size: 1.5rem;
+            color: white;
+            font-weight: bolder;
+        }
